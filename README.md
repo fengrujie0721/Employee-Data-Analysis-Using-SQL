@@ -53,6 +53,16 @@ List first name, last name, and sex for employees whose first name is "Hercules"
 
 
 
+List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+
+![image](https://user-images.githubusercontent.com/79819331/120356582-7e21d800-c2d2-11eb-9d03-036c992c6f00.png)
+
+
+List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+
+![image](https://user-images.githubusercontent.com/79819331/120356778-b4f7ee00-c2d2-11eb-9dcf-8fcc54bbef1b.png)
 
 
 

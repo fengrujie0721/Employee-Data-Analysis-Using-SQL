@@ -15,7 +15,7 @@ Inspect the CSVs and sketch out an ERD of the tables.
 
 ![image](https://user-images.githubusercontent.com/79819331/120353166-7ad91d00-c2cf-11eb-8238-86afa15e6c07.png)
 
-Employee SQL ERD
+Employee SQL ERD.
 
 
 
@@ -78,7 +78,7 @@ Import the SQL database into Pandas. Create a histogram to visualize the most co
 ![image](https://user-images.githubusercontent.com/79819331/120358316-5b90be80-c2d4-11eb-8bfe-6b055878268a.png)
 
 
-Histogram of salary
+Histogram of salary.
 
 
 

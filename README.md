@@ -108,14 +108,19 @@ REFERENCES "employees" ("emp_no");
 List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 
-select employees.emp_no as "employee number",employees.last_name,employees.first_name,employees.sex,salaries.salary 
-from employees
-join salaries
-on employees.emp_no=salaries.emp_no;
 
 ![image](https://user-images.githubusercontent.com/79819331/120354557-86791380-c2d0-11eb-86c2-109e340751be.png)
 
 
+List first name, last name, and hire date for employees who were hired in 1986.
+
+
+![image](https://user-images.githubusercontent.com/79819331/120355344-39497180-c2d1-11eb-83b3-8305705bdb76.png)
+
+
+List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+
+![image](https://user-images.githubusercontent.com/79819331/120355676-79105900-c2d1-11eb-9082-21a8654fb89b.png)
 
 
 

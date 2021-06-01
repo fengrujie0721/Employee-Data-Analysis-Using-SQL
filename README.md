@@ -33,6 +33,7 @@ CREATE TABLE "titles" (
     "title" varchar(25)   NOT NULL,
     CONSTRAINT "pk_titles" PRIMARY KEY (
         "title_id"
+        
      )
 );
 
@@ -90,5 +91,20 @@ REFERENCES "departments" ("dept_no");
 
 ALTER TABLE "dept_manager" ADD CONSTRAINT "fk_dept_manager_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "employees" ("emp_no");
+
+
+
+List the following details of each employee: employee number, last name, first name, sex, and salary.
+
+select employees.emp_no as "employee number",employees.last_name,employees.first_name,employees.sex,salaries.salary 
+from employees
+join salaries
+on employees.emp_no=salaries.emp_no;
+
+![image](https://user-images.githubusercontent.com/79819331/120354557-86791380-c2d0-11eb-86c2-109e340751be.png)
+
+
+
+
 
 

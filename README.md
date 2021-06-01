@@ -65,6 +65,13 @@ List all employees in the Sales and Development departments, including their emp
 ![image](https://user-images.githubusercontent.com/79819331/120356778-b4f7ee00-c2d2-11eb-9dcf-8fcc54bbef1b.png)
 
 
+In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+
+![image](https://user-images.githubusercontent.com/79819331/120357055-07390f00-c2d3-11eb-9cd6-defa83dbaf5f.png)
+
+
+
 
 
 

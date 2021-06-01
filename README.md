@@ -74,8 +74,10 @@ In descending order, list the frequency count of employee last names, i.e., how 
 Import the SQL database into Pandas. Create a histogram to visualize the most common salary ranges for employees. Create a bar chart of average salary by title.
 
 
+![image](https://user-images.githubusercontent.com/79819331/120358316-5b90be80-c2d4-11eb-8bfe-6b055878268a.png)
 
-![image](https://user-images.githubusercontent.com/79819331/120357880-e91fde80-c2d3-11eb-9844-c97d82336319.png)
+
+Histogram of salary
 
 
 

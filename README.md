@@ -75,6 +75,11 @@ Import the SQL database into Pandas. Create a histogram to visualize the most co
 
 
 
+![image](https://user-images.githubusercontent.com/79819331/120357880-e91fde80-c2d3-11eb-9844-c97d82336319.png)
+
+
+
+
 
 
 
